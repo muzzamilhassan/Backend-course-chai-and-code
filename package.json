@@ -1,0 +1,15 @@
+{
+  "name": "backendwithchaiandcode",
+  "version": "1.0.0",
+  "description": "muzzamilhassan",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.6",
+    "express": "^4.21.1"
+  }
+}
